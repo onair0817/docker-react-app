@@ -1,1 +1,2 @@
-# react app with docker ci
+# React App with Docker CI
+
