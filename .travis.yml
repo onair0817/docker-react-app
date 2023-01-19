@@ -15,6 +15,7 @@ script:
 after_success:
   - echo "Test success!"
 
+## aws cd
 # deploy:
 #   edge: true
 #   provider: elasticbeanstalk
